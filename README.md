@@ -18,4 +18,4 @@ bundle exec jekyll serve
 
 Then, go to the site and click the link to the page: `http://localhost:4000`
 
-<span style="background-color:red">Note, if you are using Ruby version 3.0.0 or higher, step 5 may fail. You may fix it by adding webrick to your dependencies: `bundle add webrick`</span>
+Note, if you are using Ruby version 3.0.0 or higher, step 5 may fail. You may fix it by adding webrick to your dependencies: `bundle add webrick`
