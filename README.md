@@ -13,6 +13,7 @@ git clone https://github.com/BIS402Jekyll/bis402jekyll.github.io.git
 When ready, build the site and make it available on a local server.
 
 ```ruby
+cd bis402jekyll.github.io
 bundle exec jekyll serve
 ```
 
