@@ -4,14 +4,14 @@ This is a Jekyll site for BIS 402. It is a simple site with a single page that w
 
 First, go to Jekyll's Quickstart: <https://jekyllrb.com/docs/> and follow the instructions to install Ruby, Ruby Gems, and Jekyll. You will not need GCC or Make as you are not compiling any code.
 
-Then, create a new directory and cd into it.
+Then, create a new directory and change into it.
 
 ```bash
 mkdir my_jekyll_site
 cd my_jekyll_site
 ```
 
-Then, clone this repository:
+Then, clone this repository in your new directory:
 
 ```git
 git clone https://github.com/BIS402Jekyll/bis402jekyll.github.io.git
@@ -20,7 +20,6 @@ git clone https://github.com/BIS402Jekyll/bis402jekyll.github.io.git
 When ready, build the site and make it available on a local server.
 
 ```ruby
-cd bis402jekyll.github.io
 bundle exec jekyll serve
 ```
 
