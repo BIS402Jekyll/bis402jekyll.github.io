@@ -6,6 +6,11 @@ First, go to Jekyll's Quickstart: <https://jekyllrb.com/docs/> and follow the in
 
 Then, create a new directory and cd into it.
 
+```bash
+mkdir my_jekyll_site
+cd my_jekyll_site
+```
+
 Then, clone this repository:
 
 ```git
